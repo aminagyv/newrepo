@@ -6,5 +6,5 @@ public class Library {
     public void printLibraryRules(){
         System.out.println("Library Rules: No food or drinks allowed, Return books within 2 weeks");
     }
-//    String deyisikliketdim;
+
 }

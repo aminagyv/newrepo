@@ -9,5 +9,5 @@ public class Member extends Person{
     public void borrowBook(String bookTitle){
         System.out.println("Member "+fullName+" borrowed "+bookTitle);
     }
-//    String deyisikliketdim;
+
 }
