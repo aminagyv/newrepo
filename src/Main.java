@@ -32,13 +32,9 @@ public class Main {
         Book book=new Book(title,author,isbn);
         book.printBookDetails();
 
-//
-
-
-
-
-
 
 
     }
+
 }
+
