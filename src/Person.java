@@ -15,4 +15,5 @@ public class Person {
         System.out.println("fullName: "+fullName);
         System.out.println("age: "+age);
     }
+//    String deyisikliketdim;
 }

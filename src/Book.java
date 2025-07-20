@@ -15,4 +15,5 @@ public class Book {
         System.out.println("author: "+author);
         System.out.println("isbn: "+isbn);
     }
+//    String deyisikliketdim;
 }
